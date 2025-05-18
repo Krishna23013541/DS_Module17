@@ -23,8 +23,8 @@ To compose the code to determine whether the topological ordering for the follow
 ```
 /*
 Program to determine whether the topological ordering for the following graph is possible or not
-Developed by: GOWTHAM N
-RegisterNumber:  212223100008
+Developed by: KRISHNA KUMAR R
+RegisterNumber:  212223230107
 */
 //#include<stdio.h>
 //#include<stdlib.h>
